@@ -11,3 +11,7 @@ Sube **todos los archivos** de esta carpeta a la raíz del repositorio: `index.h
 **Importante:** los PNJ y encuentros se guardan en el almacenamiento local de ese navegador. Antes de borrar datos de Safari, exporta la partida. La biblioteca de libros/conjuros puede tener almacenamiento separado.
 
 Para activar GitHub Pages: Settings → Pages → Deploy from a branch → main → /(root). Las actualizaciones pueden tardar unos minutos en publicarse. Si abres un archivo HTML local, no se activa la PWA: usa la dirección HTTPS del sitio publicado.
+
+
+## V17: Armadura de mago por clase
+Se retiró la casilla manual de la ficha. El botón de Armadura de mago aparece para Mago y Hechicero, o cuando el conjuro figure expresamente en la lista de conjuros del personaje (útil para otras clases con rasgos especiales). Tener el conjuro en la lista de clase no significa conocerlo o tenerlo preparado; el DM debe comprobarlo antes de activarlo. El conjuro no se activa automáticamente y exige no vestir armadura.
