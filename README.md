@@ -15,3 +15,7 @@ Para activar GitHub Pages: Settings → Pages → Deploy from a branch → main 
 
 ## V17: Armadura de mago por clase
 Se retiró la casilla manual de la ficha. El botón de Armadura de mago aparece para Mago y Hechicero, o cuando el conjuro figure expresamente en la lista de conjuros del personaje (útil para otras clases con rasgos especiales). Tener el conjuro en la lista de clase no significa conocerlo o tenerlo preparado; el DM debe comprobarlo antes de activarlo. El conjuro no se activa automáticamente y exige no vestir armadura.
+
+
+## V18: Objetos
+Navegación compacta y pestaña Objetos con búsqueda, filtros por tipo, rareza y libro, versiones por fuente e importación JSON o catálogo remoto. Los objetos se almacenan localmente de forma independiente; usa Exportar objetos JSON para respaldarlos.
