@@ -1,4 +1,4 @@
-# DM.AID V28 · Dungeon Master Aid
+# DM.AID 1.0.0 · Dungeon Master Aid
 
 **Run the game. Rule the story.**
 
